@@ -1,5 +1,5 @@
 from ting_file_management.file_management import txt_importer
-import sys
+
 
 def process(path_file, instance):
     file_already_exists = False
@@ -10,7 +10,7 @@ def process(path_file, instance):
     }
     for element in instance._data:
         if element['nome_do_arquivo'] == path_file:
-            file_already_exists= True
+            file_already_exists = True
             break
     if not file_already_exists:
         instance.enqueue(returned_data)
