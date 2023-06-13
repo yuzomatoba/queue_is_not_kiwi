@@ -30,6 +30,6 @@ def remove(instance):
 def file_metadata(instance, position):
     try:
         searching_file = instance.search(position)
-        print(searching_file)
+        sys.stdout.write(str(searching_file))
     except IndexError:
-        print('Posição Inválida', file=sys.stderr)
+        sys.stderr.write('Posição inválida')
