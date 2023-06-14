@@ -1,5 +1,6 @@
 import re
 
+
 def getting_target_word(content, index, line):
     if content:
         return {
@@ -7,8 +8,9 @@ def getting_target_word(content, index, line):
             'conteudo': line
         }
     else:
-        return { 'linha': index + 1}
+        return {'linha': index + 1}
     
+
 def getting_match_word(word, instance, content):
     result = []
     insensitive_case_word = word.lower()
@@ -28,6 +30,7 @@ def getting_match_word(word, instance, content):
                 }
             )
     return result
+
 
 def exists_word(word, instance):
     result = getting_match_word(word, instance, content=False)
