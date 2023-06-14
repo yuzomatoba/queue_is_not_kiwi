@@ -9,7 +9,7 @@ def getting_target_word(content, index, line):
         }
     else:
         return {'linha': index + 1}
-    
+
 
 def getting_match_word(word, instance, content):
     result = []
