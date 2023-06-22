@@ -5,8 +5,8 @@
 
 
 
-The project had the following objectives:
+The project had the following goals:
 
-Creation of the Queue class;
-Development of a search function;
-Development of a removal function.
+- Queue class creation;
+- Development of a search function;
+- Development of a removal function.
