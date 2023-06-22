@@ -10,3 +10,7 @@ The project had the following goals:
 - Queue class creation;
 - Development of a search function;
 - Development of a removal function.
+
+
+## Programming Language:
+- Python
