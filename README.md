@@ -1,4 +1,4 @@
-## <img src="https://img.freepik.com/vetores-premium/ilustracao-de-passaro-kiwi_74669-305.jpg?w=2000" alt="kiwi animal" width="30" height="30"> Queue Project <img src="https://png.pngtree.com/png-clipart/20200225/original/pngtree-kiwi-fruit-vector-illustration-isolated-on-white-background-png-image_5261942.jpg" alt="kiwi fruit" width="30" height="30">
+## <img src="https://img.freepik.com/vetores-premium/ilustracao-de-passaro-kiwi_74669-305.jpg?w=740" alt="kiwi animal" width="30" height="30"> Queue Project <img src="https://png.pngtree.com/png-clipart/20200225/original/pngtree-kiwi-fruit-vector-illustration-isolated-on-white-background-png-image_5261942.jpg" alt="kiwi fruit" width="30" height="30">
 
 
 
