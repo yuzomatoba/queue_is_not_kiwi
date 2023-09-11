@@ -1,4 +1,4 @@
-## <img src="https://img.freepik.com/vetores-premium/vaca-bebe-fofa-comendo-ilustracao-de-desenho-animado-de-pizza_772617-277.jpg?size=626&ext=jpg" alt="cow" width="30" height="30"> Java Farm Management Project <img src="https://img.freepik.com/vetores-premium/vaca-bebe-fofa-comendo-ilustracao-de-desenho-animado-de-pizza_772617-277.jpg?size=626&ext=jpg" alt="cow" width="30" height="30">
+## <img src="https://www.gettyimages.com.br/ilustra%C3%A7%C3%B5es/p%C3%A1ssaro-kiwi" alt="kiwi animal" width="30" height="30"> Queue Project <img src="https://www.istockphoto.com/br/ilustra%C3%A7%C3%B5es/fruta-kiwi" alt="kiwi fruit" width="30" height="30">
 
 
 
