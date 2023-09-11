@@ -1,4 +1,4 @@
-## <img src="https://www.gettyimages.com.br/ilustra%C3%A7%C3%B5es/p%C3%A1ssaro-kiwi" alt="kiwi animal" width="30" height="30"> Queue Project <img src="https://br.freepik.com/vetores/kiwi-desenho" alt="kiwi fruit" width="30" height="30">
+## <img src="https://www.gettyimages.com.br/ilustra%C3%A7%C3%B5es/p%C3%A1ssaro-kiwi" alt="kiwi animal" width="30" height="30"> Queue Project <img src="https://media.istockphoto.com/id/1152212885/pt/vetorial/bright-vector-illustration-of-colorful-fresh-kiwi-isolated-on-white.jpg?s=612x612&w=0&k=20&c=Ph6jBCxZM6NAQ9GA5rAxSYDOFKVt_x9bcH29hYVdsBE=" alt="kiwi fruit" width="30" height="30">
 
 
 
